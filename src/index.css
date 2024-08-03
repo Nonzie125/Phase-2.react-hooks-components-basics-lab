@@ -48,8 +48,8 @@ nav a:active {
   display: flex;
   align-items: center;
   justify-content: center;
-  flex-direction: column;
-  text-align: center;
+  flex-direction: row;
+  text-align: left;
   height: 50vh;
   min-height: 400px;
   padding: 1rem;
