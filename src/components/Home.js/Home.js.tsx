@@ -3,8 +3,8 @@ import React from 'react';
 interface Props {
 }
 
-const home.js = (props: Props) => {
+const Home.js = (props: Props) => {
     return null;
 };
 
-export default home.js;
+export default Home.js;
